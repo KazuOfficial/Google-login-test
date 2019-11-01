@@ -1,0 +1,3335 @@
+{
+    "nazwa": "Technik Programista",
+    "kod": "351406",
+    "klasyfikacje": [
+       {
+          "nazwa": "Tworzenie i administrowanie stronami i aplikacjami internetowymi oraz bazami danych",
+          "kod": "03",
+          "podklasyfikacje": [
+             {
+                "nazwa": "Bezpieczeństwo i higiena pracy",
+                "kod": "03",
+                "numer": 1,
+                "efekty": [
+                   {
+                      "nazwa": "określa warunki i organizację pracy zapewniające wymagany poziom ochrony zdrowia i życia przed zagrożeniami występującymi w środowisku pracy",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "wymienia przepisy prawa dotyczące bezpieczeństwa i higieny pracy, ochrony przeciwpożarowej, ochrony środowiska i ergonomii",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "identyfikuje regulacje wewnątrzzakładowe dotyczące bezpieczeństwa i higieny pracy",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "stosuje zasady ochrony przeciwpożarowej w środowisku pracy",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "określa wymagania ergonomiczne na stanowisku pracy",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "stosuje zasady postępowania z odpadami niebezpiecznymi",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "opisuje zadania i uprawnienia instytucji oraz służb działających w zakresie ochrony pracy i ochrony środowiska",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "wymienia instytucje oraz służby działające w zakresie ochrony pracy i ochrony środowiska",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wskazuje zadania i uprawnienia instytucji oraz służb działających w zakresie ochrony pracy i ochrony środowiska",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "opisuje prawa i obowiązki pracownika oraz pracodawcy w zakresie bezpieczeństwa i higieny pracy",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "wymienia obowiązki pracodawcy i pracowników w zakresie bezpieczeństwa i higieny pracy",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wymienia rodzaje profilaktycznych badań lekarskich",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wymienia rodzaje obligatoryjnych szkoleń z zakresu bezpieczeństwa i higieny pracy",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "identyfikuje system kar dla pracownika z tytułu nieprzestrzegania przepisów bezpieczeństwa i higieny pracy w trakcie wykonywania pracy",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "wskazuje obowiązki pracownika i pracodawcy w zakresie zapobiegania wypadkom przy pracy i chorobom zawodowym",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "wymienia rodzaje świadczeń z tytułu wypadku przy pracy i chorób zawodowych",
+                            "numer": 1
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "określa skutki oddziaływania czynników szkodliwych na organizm człowieka",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "określa zagrożenia występujące w środowisku pracy",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "określa skutki oddziaływania czynników fizycznych na organizm człowieka",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "określa skutki oddziaływania czynników psychofizycznych na organizm człowieka",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "opisuje skutki oddziaływania czynników niebezpiecznych i uciążliwych na organizm człowieka",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "wyjaśnia pojęcia choroba zawodowa i wypadek przy pracy",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje środki ochrony indywidualnej i zbiorowej podczas wykonywania zadań zawodowych",
+                      "numer": 5,
+                      "kryteria": [
+                         {
+                            "nazwa": "identyfikuje środki ochrony zbiorowej",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wskazuje środki ochrony zabezpieczające przed hałasem w pracy biurowej",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "identyfikuje wymagania w zakresie oświetlenia, temperatury i mikroklimatu pomieszczeń biurowych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "rozpoznaje środki ochrony zapobiegające porażeniem prądem w pracy biurowej",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "rozpoznaje środki ochrony zapobiegające pogorszeniu wzroku i zniekształceniu kręgosłupa",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "dobiera środki ochrony zbiorowej do rodzaju zagrożeń w pracy biurowej",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "udziela pierwszej pomocy w stanach nagłego zagrożenia zdrowotnego",
+                      "numer": 6,
+                      "kryteria": [
+                         {
+                            "nazwa": "opisuje podstawowe symptomy wskazujące na stany nagłego zagrożenia zdrowotnego",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "ocenia sytuację poszkodowanego na podstawie analizy objawów obserwowanych u poszkodowanego",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "zabezpiecza siebie, poszkodowanego i miejsce wypadku",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "układa poszkodowanego w pozycji bezpiecznej",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "powiadamia odpowiednie służby",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji",
+                            "numer": 8
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Podstawy informatyki",
+                "kod": "03",
+                "numer": 2,
+                "efekty": [
+                   {
+                      "nazwa": "charakteryzuje parametry sprzętu komputerowego",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "identyfikuje parametry urządzeń techniki komputerowej",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "porównuje parametry tego samego typu urządzeń techniki komputerowej (np. dwie karty graficzne, dwa dyski twarde)",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "przelicza jednostki pojemności pamięci masowych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "dobiera urządzenia techniki komputerowej zgodnie z wymaganiami technicznymi stanowiska",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "definiuje elementy architektury systemów komputerowych",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "opisuje zasadę działania procesora (rozkazy)",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wymienia zależności między pamięcią operacyjną, procesorem i pozostałymi elementami systemu komputerowego",
+                            "numer": 1
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "charakteryzuje systemy informatyczne oraz rozróżnia systemy informatyczne pod względem funkcjonalności",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "identyfikuje system informatyczny",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "podaje przykłady systemów informacji przetwarzanych elektronicznie, w tym system PESEL, system postepowania rekrutacyjnego do szkół, e-dziennik, system bankowości elektronicznej, profil zaufany",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "opisuje miejsca przechowywania informacji: serwer lokalny, chmura, nośniki danych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "dobiera systemy informatyczne pod względem ich funkcjonalności",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "opisuje działanie portali społecznościowych",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "określa zasady bezpiecznego korzystania z portali społecznościowych",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "podaje przykłady zastosowań systemów informatycznych w działalności biznesowej, w tym e-commerce, e-sklep, e-faktura, systemy rezerwacyjne",
+                            "numer": 7
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje zalecenia dotyczące ułatwień dostępności serwisów internetowych dla osób niepełnosprawnych",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "wymienia dostępne udogodnienia dla osób z niepełnosprawnościami",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wymienia wymagania dotyczące poziomu dostępności według wytycznych WCAG",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "posługuje się terminologią dotyczącą sieci komputerowych",
+                      "numer": 5,
+                      "kryteria": [
+                         {
+                            "nazwa": "wymienia topologie sieci",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "identyfikuje cechy modelu TCP/IP (Transmission Control Protocol/Internet Protocol) i protokołów komunikacji sieciowej",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "opisuje sieć bezprzewodową oraz sieć przewodową",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "stosuje programy monitorujące łącze internetowe",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "definiuje pojęcia: pobieranie i wysyłanie danych",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "opisuje zasady działania sieci synchronicznej i asynchronicznej",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "wykazuje różnice w działaniu sieci synchronicznej i asynchronicznej",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "wymienia i stosuje zasady bezpieczeństwa przy korzystaniu z sieci",
+                            "numer": 8
+                         },
+                         {
+                            "nazwa": "używa komunikatorów tekstowych, audio-video oraz tablic interaktywnych",
+                            "numer": 9
+                         },
+                         {
+                            "nazwa": "stosuje zasadę netykiety",
+                            "numer": 10
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje pozycyjne systemy liczbowe",
+                      "numer": 6,
+                      "kryteria": [
+                         {
+                            "nazwa": "przekształca liczby zapisane w różnych pozycyjnych systemach liczbowych: dwójkowym, ósemkowym, szesnastkowym, dziesiętnym",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "zapisuje liczby w kodzie uzupełnieniowym do dwóch",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wykonuje podstawowe działania logiczne i arytmetyczne na liczbach binarnych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "wykorzystuje dostępne narzędzia informatyczne do wykonywania działań na liczbach zapisanych w różnych pozycyjnych systemach liczbowych (np. kalkulatory HEX, DEC, BIN)",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje zasady cyberbezpieczeństwa",
+                      "numer": 7,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozróżnia rodzaje szkodliwego oprogramowania",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "rozróżnia rodzaje ataków hakerskich",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wymienia środki zabezpieczeń przed złośliwym oprogramowaniem oraz atakami hakerskimi",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "wymienia zagrożenia dla sfery psychicznej (emocjonalnej), fizycznej, społecznej,",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "opisuje zagrożenia dla sfery psychicznej (emocjonalnej), fizycznej, społecznej, poznawczej człowieka wynikające z przebywania w cyberprzestrzeni i sposoby przeciwdziałania tym zagrożeniom",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "przestrzega zasad bezpiecznego przechowywania danych",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "przestrzega zasad bezpieczeństwa swojego cyfrowego wizerunku i tożsamości",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "przestrzega zasad prywatności w cyfrowym świecie",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "wymienia i omawia podstawowe pojęcia związane z ochroną danych osobowych, ochroną informacji, prawami autorskimi i własnością intelektualną oraz wyjaśnia potrzebę ich ochrony",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "stosuje zasady dokonywania bezpiecznych transakcji w internecie",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "rozpoznaje właściwe normy i procedury oceny zgodności podczas realizacji zadań zawodowych",
+                      "numer": 8,
+                      "kryteria": [
+                         {
+                            "nazwa": "wymienia cele normalizacji krajowej",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wyjaśnia, czym jest norma i wymienia cechy normy",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "rozróżnia oznaczenie normy międzynarodowej, europejskiej i krajowej",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "korzysta ze źródeł informacji dotyczących norm i procedur oceny zgodności",
+                            "numer": 4
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Projektowanie stron internetowych",
+                "kod": "03",
+                "numer": 3,
+                "efekty": [
+                   {
+                      "nazwa": "posługuje się hipertekstowymi językami znaczników (HTML HyperText Markup Language)",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "korzysta ze standardów dokumentów hipertekstowych",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje znaczniki języka HTML",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "definiuje strukturę dokumentu hipertekstowego korzystając ze znaczników sekcji",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "definiuje hierarchię treści stosując znaczniki nagłówków i paragrafu",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "definiuje elementy strony internetowej: listy, tabele, obrazy, odnośniki, kontrolki",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "wykonuje formularze na stronie internetowej",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje kaskadowe arkusze stylów do tworzenia responsywnych stron internetowych",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "stosuje style lokalne, wewnętrzne i zewnętrzne",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje kaskadowość stylów",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "rozróżnia selektory elementów, atrybutów, specjalne, pseudoklas i pseudoelementów",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "rozpoznaje selektory CSS (Cascading Style Sheets)",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "stosuje selektory CSS, ich własności i wartości",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "projektuje wygląd strony internetowej przy wykorzystaniu języka CSS",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "wykonuje responsywne strony internetowe z wykorzystaniem CSS",
+                            "numer": 7
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje systemy zarządzania treścią CMS (Content Management System)",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "określa funkcje systemów zarządzania treścią",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "określa funkcje panelu administratora w systemach zarządzania treścią",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "instaluje systemy zarządzania treścią (Joomla! i WordPress)",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "konfiguruje systemy zarządzania treścią (Joomla! i WordPress)",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "administruje systemem zarządzania treścią (Joomla! i WordPress)",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "wykorzystuje gotowe szablony dla systemów CMS",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "aktualizuje systemy CMS",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "projektuje strony internetowe przy wykorzystaniu systemów CMS",
+                            "numer": 3
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "projektuje grafikę komputerową",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozróżnia podstawowe pojęcia dotyczące grafiki komputerowej rastrowej i wektorowej",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "przestrzega zasad cyfrowego zapisu obrazu",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "dobiera oprogramowanie do obróbki grafiki komputerowej",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "identyfikuje różne formaty plików graficznych",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "stosuje różne modele barw",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "osadza tekst na grafice oraz dobiera jego krój i styl",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "korzysta z funkcji edytora grafiki wektorowej",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "korzysta z funkcji edytora grafiki rastrowej",
+                            "numer": 8
+                         },
+                         {
+                            "nazwa": "wykonuje edycję plików graficznych na potrzeby stron internetowych",
+                            "numer": 9
+                         },
+                         {
+                            "nazwa": "projektuje elementy graficzne dla strony internetowej",
+                            "numer": 10
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "wykorzystuje elementy multimedialne na stronach internetowych",
+                      "numer": 5,
+                      "kryteria": [
+                         {
+                            "nazwa": "określa zasady komputerowego przetwarzania wideo i dźwięku przygotowanego na potrzeby strony internetowej",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "dobiera oprogramowanie do edycji obrazu ruchomego i dźwięku",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wykonuje animacje na potrzeby strony internetowej",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "wykonuje materiały wideo na potrzeby strony internetowej",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "edytuje wideo i dźwięk na potrzeby strony internetowej",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "osadza elementy multimedialne na stronie internetowej",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "importuje materiały multimedialne do systemów zarządzania treścią CMS",
+                            "numer": 7
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "wykonuje strony internetowe zgodnie z projektami",
+                      "numer": 6,
+                      "kryteria": [
+                         {
+                            "nazwa": "projektuje układ sekcji na stronie internetowej",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "analizuje projekt strony internetowej",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "tworzy strukturę strony internetowej zgodnie z projektem",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "dobiera paletę barw dla strony internetowej",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "dobiera czcionki dla strony internetowej",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "uwzględnia potrzeby użytkowników z różnymi niepełnosprawnościami przy projektowaniu stron internetowych, np. kontrast, powiększenie, inne elementy wspomagające niepełnosprawnych",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "opisuje zasady i znaczenie wytycznych dotyczących ułatwień w dostępie do treści publikowanych w internecie",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "tworzy stronę zgodną z wytycznymi dotyczącymi ułatwień w dostępie do treści publikowanych w internecie",
+                            "numer": 8
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje reguły testowania, walidacji i optymalizacji stron internetowych",
+                      "numer": 7,
+                      "kryteria": [
+                         {
+                            "nazwa": "testuje stronę internetową w różnych przeglądarkach",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "testuje responsywność strony internetowej",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "określa proces walidacji strony internetowej",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "dobiera narzędzia walidacji strony internetowej",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "dokonuje walidacji strony internetowej",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "optymalizuje stronę internetową",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "określa proces pozycjonowania strony internetowej",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "stosuje zasady dostępności (WCAG) i pozycjonowania strony internetowej",
+                            "numer": 1
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "publikuje witryny i aplikacje internetowe",
+                      "numer": 8,
+                      "kryteria": [
+                         {
+                            "nazwa": "opisuje usługi hostingu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "dobiera usługi hostingu w zależności od potrzeb użytkownika",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "opisuje operacje na domenach internetowych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "wykonuje operacje na domenach internetowych",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "rozpoznaje etapy publikacji witryn i aplikacji internetowych",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "opisuje funkcje programów wykorzystywanych do przesyłania danych na serwer",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "dobiera program do przesyłania danych na serwer",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "przesyła dane na serwer",
+                            "numer": 8
+                         },
+                         {
+                            "nazwa": "dobiera pakiety serwerowe www",
+                            "numer": 9
+                         },
+                         {
+                            "nazwa": "sprawdza poprawność publikowanych stron www",
+                            "numer": 10
+                         },
+                         {
+                            "nazwa": "publikuje witryny internetowe",
+                            "numer": 11
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Projektowanie i administrowanie bazami danych",
+                "kod": "03",
+                "numer": 4,
+                "efekty": [
+                   {
+                      "nazwa": "posługuje się pojęciami dotyczącymi baz danych",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "określa pojęcia związane z bazami danych: encja, związki encji, atrybuty encji, klucz relacji",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "określa typy danych używanych w bazach danych",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "stosuje odpowiednie typy danych przy zdefiniowaniu encji",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "rozpoznaje postacie normalne baz danych",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "opisuje cechy relacyjnej bazy danych",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "tworzy diagramy E/R (Entity-Relationship Diagram)",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "charakteryzuje typy notacji diagramów E/R",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "rozróżnia bloki składowe diagramów E/R",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "analizuje diagramy E/R",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "definiuje encje i atrybuty encji",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "definiuje związki między encjami i określa ich liczebność",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "dobiera typ danych do określonych atrybutów encji",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "określa klucz główny dla encji",
+                            "numer": 7
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "korzysta z systemów zarządzania bazami danych SZBD (Database Management System)",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozróżnia dostępne SZBD",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "dobiera SZBD do określonego zastosowania",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "instaluje SZBD",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "konfiguruje SZBD do pracy w środowisku wielu użytkowników",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "aktualizuje SZBD",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje strukturalny język zapytań SQL (Structured Query Language)",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "opisuje polecenia języka SQL",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje polecenia języka SQL",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "definiuje struktury baz danych przy użyciu instrukcji języka zapytań",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "wyszukuje informacje w bazie danych przy użyciu języka SQL",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "zmienia rekordy w bazie danych przy użyciu języka SQL",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "usuwa rekordy w bazie danych przy użyciu języka SQL",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "tworzy skrypty w strukturalnym języku zapytań",
+                            "numer": 7
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "tworzy relacyjne bazy danych zgodnie z projektem",
+                      "numer": 5,
+                      "kryteria": [
+                         {
+                            "nazwa": "definiuje tabele w bazie danych na podstawie projektu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "definiuje typy danych oraz atrybuty kolumn",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wprowadza dane do bazy danych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "programuje skrypty automatyzujące proces tworzenia struktury bazy danych",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "importuje dane z pliku",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "eksportuje strukturę bazy danych i dane do pliku",
+                            "numer": 3
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "tworzy formularze, zapytania i raporty do przetwarzania danych",
+                      "numer": 6,
+                      "kryteria": [
+                         {
+                            "nazwa": "tworzy formularze do wprowadzania danych i modyfikowania danych",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "identyfikuje rodzaje zapytań",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "tworzy zapytania i podzapytania do tabel bazy danych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "tworzy raporty w bazie danych",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "modyfikuje struktury baz danych",
+                      "numer": 7,
+                      "kryteria": [
+                         {
+                            "nazwa": "analizuje strukturę bazy danych w celu jej modyfikacji",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "rozbudowuje strukturę bazy danych tworząc tabele, pola, relacje i atrybuty",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "weryfikuje poprawność struktury bazy danych po rozbudowie",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "usuwa elementy struktury bazy danych oraz dane",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "modyfikuje strukturę bazy oraz dane bazy",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "zarządza systemem bazy danych",
+                      "numer": 8,
+                      "kryteria": [
+                         {
+                            "nazwa": "tworzy użytkowników bazy danych",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "określa uprawnienia dla użytkowników",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "kontroluje spójność bazy danych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "tworzy kopię zapasową struktury bazy danych",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "weryfikuje poprawność kopii zapasowej bazy danych",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "przywraca dane z kopii zapasowej bazy danych",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "importuje i eksportuje tabele bazy danych",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "diagnozuje i naprawia bazę danych",
+                            "numer": 8
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Programowanie aplikacji internetowych",
+                "kod": "03",
+                "numer": 5,
+                "efekty": [
+                   {
+                      "nazwa": "stosuje zasady programowania",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "analizuje problemy programistyczne",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje algorytmy",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "stosuje zasady programowania strukturalnego",
+                            "numer": 3
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje skryptowe języki programowania",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "stosuje języki JavaScript oraz jeden z języków: Python, ASP.NET, PHP, JSP do tworzenia aplikacji internetowych",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "identyfikuje skryptowe języki programowania",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "implementuje algorytmy w języku interpretowanym",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "posługuje się typami prostymi i złożonymi, zmiennymi i operatorami w skryptowych językach programowania",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "stosuje instrukcje sterujące skryptowych języków programowania",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "stosuje funkcje oraz wybrane biblioteki skryptowych języków programowania",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "tworzy strony internetowe wykorzystujące skryptowe języki programowania",
+                            "numer": 7
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "programuje skrypty wykonywane po stronie klienta",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "programuje w języku JavaScript",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje w programowaniu obsługę zdarzeń myszy i klawiatury",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "stosuje biblioteki wykorzystywane w skryptach po stronie klienta",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "definiuje skrypty obsługujące formularze i kontrolki HTML (HyperText Markup Language)",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "wykorzystuje mechanizmy walidacji formularzy HTML za pomocą mechanizmów HTMLS",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "korzysta z funkcji modelu DOM",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "korzysta z bibliotek i frameworków języka JavaScript, w tym z biblioteki jQuery, Angular, React",
+                            "numer": 1
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "programuje skrypty wykonywane po stronie serwera",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "programuje w jednym z języków Python, ASP.NET, PHP, JSP",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje wbudowane instrukcje, funkcje",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "stosuje metody przesyłania danych z formularza",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "programuje wysyłanie danych z formularza HTML",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "stosuje biblioteki do obsługi bazy danych, odpowiednie dla języka i frameworka",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "korzysta z funkcji do obsługi plików",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "korzysta z funkcji do obsługi ciasteczek (ang. Cookies) oraz sesji",
+                            "numer": 7
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje środowisko programistyczne i uruchomieniowe aplikacji internetowych",
+                      "numer": 5,
+                      "kryteria": [
+                         {
+                            "nazwa": "opisuje funkcje środowiska programistycznego",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "dobiera środowisko programistyczne do określonych zadań i języka programowania",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "tworzy programy w wybranym środowisku programistycznym",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "instaluje i konfiguruje serwer WWW",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "instaluje i konfiguruje serwer baz danych",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "korzysta z gotowych pakietów dla aplikacji internetowych, np. phpMyAdmin",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "przeprowadza walidację kodu programu",
+                      "numer": 6,
+                      "kryteria": [
+                         {
+                            "nazwa": "analizuje błędy w kodzie źródłowym programu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wykonuje testy tworzonych programów",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "poprawia błędy w tworzonych programach",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "stosuje debugger w przeglądarce internetowej",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "dokumentuje tworzoną aplikację",
+                      "numer": 7,
+                      "kryteria": [
+                         {
+                            "nazwa": "stosuje komentarze w kodzie źródłowym programu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "tworzy dokumentację programu",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "tworzy instrukcję użytkownika programu",
+                            "numer": 3
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Język obcy zawodowy",
+                "kod": "03",
+                "numer": 6,
+                "efekty": [
+                   {
+                      "nazwa": "uczeń posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych: a) ze stanowiskiem pracy i jego wyposażeniem b) z głównymi technologiami stosowanymi w danym zawodzie c) z dokumentacją związaną z danym zawodem d) z usługami świadczonymi w danym zawodzie",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozpoznaje oraz stosuje środki językowe umożliwiające realizację czynności zawodowych w zakresie: a) czynności wykonywanych na stanowisku pracy, w tym związanych z zapewnieniem bezpieczeństwa i higieny pracy b) narzędzi, maszyn, urządzeń i materiałów koniecznych do realizacji czynności zawodowych c) procesów i procedur związanych z realizacją zadań zawodowych d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem zadań zawodowych e) świadczonych usług, w tym obsługi klienta",
+                            "numer": 1
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym, w zakresie umożliwiającym realizację zadań zawodowych: a) rozumie proste wypowiedzi ustne dotyczące czynności zawodowych (np. rozmowy, wiadomości, komunikaty, instrukcje lub filmy instruktażowe, prezentacje),",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "określa główną myśl wypowiedzi lub tekstu lub fragmentu wypowiedzi lub tekstu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "znajduje w wypowiedzi lub tekście określone informacje",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "rozpoznaje związki między poszczególnymi częściami tekstu",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "układa informacje w określonym porządku",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym, w zakresie umożliwiającym realizację zadań zawodowych: a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję) b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "opisuje przedmioty, działania i zjawiska związane z czynnościami zawodowymi",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "przedstawia sposób postępowania w różnych sytuacjach zawodowych (np. udziela instrukcji, wskazówek, określa zasady)",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wyraża i uzasadnia swoje stanowisko",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "stosuje zasady konstruowania tekstów o różnym charakterze",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "uczestniczy w rozmowie w typowych sytuacjach związanych z realizacją zadań zawodowych – reaguje w języku obcym nowożytnym w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub w formie prostego tekstu: a) reaguje ustnie (np. podczas rozmowy z innym pracownikiem, klientem, kontrahentem, w tym podczas rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozpoczyna, prowadzi i kończy rozmowę",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "uzyskuje i przekazuje informacje i wyjaśnienia",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza z opiniami innych osób",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "prowadzi proste negocjacje związane z czynnościami zawodowymi",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "stosuje zwroty i formy grzecznościowe",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "dostosowuje styl wypowiedzi do sytuacji",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "zmienia formę przekazu ustnego lub pisemnego w języku obcym nowożytnym w typowych sytuacjach związanych z wykonywaniem czynności zawodowych",
+                      "numer": 5,
+                      "kryteria": [
+                         {
+                            "nazwa": "przekazuje w języku obcym nowożytnym informacje zawarte w materiałach wizualnych (np. wykresach, symbolach, piktogramach, schematach) oraz audiowizualnych (np. filmach instruktażowych)",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub w tym języku obcym nowożytnym",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał, np. prezentację",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową: a) wykorzystuje techniki samodzielnej nauki języka b) współdziała w grupie c) korzysta ze źródeł informacji w języku obcym nowożytnym",
+                      "numer": 6,
+                      "kryteria": [
+                         {
+                            "nazwa": "korzysta ze słownika dwujęzycznego i jednojęzycznego",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "współdziała z innymi osobami, realizując zadania językowe",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "korzysta z tekstów w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "identyfikuje słowa klucze i internacjonalizmy",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "wykorzystuje kontekst (tam, gdzie to możliwe), aby w przybliżeniu określić znaczenie słowa",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne",
+                            "numer": 2
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Kompetencje personalne i społeczne",
+                "kod": "03",
+                "numer": 7,
+                "efekty": [
+                   {
+                      "nazwa": "przestrzega zasad kultury osobistej i etyki zawodowej",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "stosuje zasady kultury osobistej i ogólnie przyjęte normy zachowania w środowisku pracy",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "przyjmuje odpowiedzialność za powierzone informacje zawodowe",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "przestrzega tajemnicy związanej z wykonywanym zawodem i miejscem pracy",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "wyjaśnia, na czym polega zachowanie etyczne w zawodzie",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "wskazuje przykłady zachowań etycznych w zawodzie",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "planuje wykonanie zadania",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "omawia czynności realizowane w ramach czasu pracy",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "określa czas realizacji zadań",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "realizuje działania w wyznaczonym czasie",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "monitoruje realizację zaplanowanych działań",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "dokonuje modyfikacji zaplanowanych działań",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "dokonuje samooceny wykonanej pracy",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "ponosi odpowiedzialność za podejmowane działania",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "przewiduje skutki podejmowanych działań, w tym skutki prawne",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wykazuje świadomość odpowiedzialności za wykonywaną pracę",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "ocenia podejmowane działania",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "przewiduje konsekwencje niewłaściwego wykonywania czynności zawodowych na stanowisku pracy, w tym niewłaściwej eksploatacji maszyn i urządzeń na stanowisku pracy",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "wykazuje się kreatywnością i otwartością na zmiany",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "podaje przykłady wpływu zmiany na różne sytuacje życia społecznego i gospodarczego",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wskazuje przykłady wprowadzenia zmiany i ocenia skutki jej wprowadzenia",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "proponuje sposoby rozwiązywania problemów związanych z wykonywaniem zadań zawodowych w nieprzewidywalnych warunkach",
+                            "numer": 3
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje techniki radzenia sobie ze stresem",
+                      "numer": 5,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozpoznaje źródła stresu podczas wykonywania zadań zawodowych",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wybiera techniki radzenia sobie ze stresem odpowiednio do sytuacji",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wskazuje najczęstsze przyczyny sytuacji stresowych w pracy zawodowej",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "przedstawia różne formy zachowań asertywnych, jako techniki radzenia sobie ze stresem",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "rozróżnia techniki rozwiązywania konfliktów związanych z wykonywaniem zadań zawodowych",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "określa skutki stresu",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "doskonali umiejętności zawodowe",
+                      "numer": 6,
+                      "kryteria": [
+                         {
+                            "nazwa": "pozyskuje informacje zawodoznawcze dotyczące przemysłu z różnych źródeł",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "określa zakres umiejętności i kompetencji niezbędnych w wykonywaniu zadań zawodowych",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "analizuje własne kompetencje",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "wyznacza własne cele rozwoju zawodowego",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "planuje drogę rozwoju zawodowego",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wskazuje możliwości podnoszenia kompetencji zawodowych, osobistych i społecznych",
+                            "numer": 3
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje zasady komunikacji interpersonalnej",
+                      "numer": 7,
+                      "kryteria": [
+                         {
+                            "nazwa": "identyfikuje sygnały werbalne i niewerbalne",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje aktywne metody słuchania",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "prowadzi dyskusje",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "udziela informacji zwrotnej",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "negocjuje warunki porozumień",
+                      "numer": 8,
+                      "kryteria": [
+                         {
+                            "nazwa": "charakteryzuje pożądaną postawę podczas prowadzenia negocjacji",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wskazuje sposób prowadzenia negocjacji warunków porozumienia",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje metody i techniki rozwiązywania problemów",
+                      "numer": 9,
+                      "kryteria": [
+                         {
+                            "nazwa": "opisuje sposób przeciwdziałania problemom w zespole realizującym zadania",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "opisuje techniki rozwiązywania problemów",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wskazuje na wybranym przykładzie metody i techniki rozwiązywania problemu",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "pracuje w zespole, ponosząc odpowiedzialność za wspólnie realizowane zadania",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "przestrzega podziału ról, zadań i odpowiedzialności w zespole",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "angażuje się w realizację wspólnych działań zespołu",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "modyfikuje sposób zachowania, uwzględniając stanowisko wypracowane wspólnie z innymi członkami zespołu",
+                            "numer": 4
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Organizacja pracy małych zespołów",
+                "kod": "03",
+                "numer": 8,
+                "efekty": [
+                   {
+                      "nazwa": "planuje i organizuje pracę zespołu w celu wykonania przydzielonych zadań",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "określa strukturę zespołu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "przygotowuje zadania zespołu do realizacji",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "planuje realizację zadań zapobiegających zagrożeniom bezpieczeństwa i ochrony zdrowia",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "oszacowuje czas potrzebny na realizację określonego zadania",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "komunikuje się ze współpracownikami",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "wskazuje wzorce prawidłowej współpracy w zespole",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "przydziela zadania członkom zespołu zgodnie z harmonogramem planowanych prac",
+                            "numer": 7
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "dobiera osoby do wykonania przydzielonych zadań",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "ocenia przydatność poszczególnych członków zespołu do wykonania zadania",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "rozdziela zadania według umiejętności i kompetencji członków zespołu",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "kieruje wykonaniem przydzielonych zadań",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "ustala kolejność wykonywania zadań zgodnie z harmonogramem prac",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "formułuje zasady wzajemnej pomocy",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "koordynuje realizację zadań zapobiegających zagrożeniom bezpieczeństwa i ochrony zdrowia",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "wydaje dyspozycje osobom wykonującym poszczególne zadania",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "monitoruje proces wykonywania zadań",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "opracowuje dokumentację dotyczącą realizacji zadania według panujących standardów",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "ocenia jakość wykonania przydzielonych zadań",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "kontroluje efekty pracy zespołu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "ocenia pracę poszczególnych członków zespołu pod względem zgodności z warunkami technicznymi odbioru prac",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "udziela wskazówek w celu prawidłowego wykonania przydzielonych zadań",
+                            "numer": 3
+                         }
+                      ]
+                   }
+                ]
+             }
+          ]
+       },
+       {
+          "nazwa": "Projektowanie, programowanie i testowanie aplikacji",
+          "kod": "04",
+          "podklasyfikacje": [
+             {
+                "nazwa": "Bezpieczeństwo i higiena pracy",
+                "kod": "04",
+                "numer": 1,
+                "efekty": [
+                   {
+                      "nazwa": "określa skutki oddziaływania czynników szkodliwych na organizm człowieka",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "określa zagrożenia występujące w środowisku pracy",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "określa skutki oddziaływania czynników fizycznych na organizm człowieka",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "określa skutki oddziaływania czynników psychofizycznych na organizm człowieka",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "opisuje skutki oddziaływania czynników niebezpiecznych i uciążliwych na organizm człowieka",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "wyjaśnia pojęcia choroba zawodowa i wypadek przy pracy",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje środki ochrony indywidualnej i zbiorowej podczas wykonywania zadań zawodowych na stanowisku pracy",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "identyfikuje środki ochrony zbiorowej",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wskazuje środki ochrony zabezpieczające przed hałasem w pracy biurowej",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "identyfikuje wymagania w zakresie oświetlenia, temperatury i mikroklimatu pomieszczeń biurowych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "rozpoznaje środki ochrony zapobiegające porażeniem prądem w pracy biurowej",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "rozpoznaje środki ochrony zapobiegające pogorszeniu wzroku i zniekształceniu kręgosłupa",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "dobiera środki ochrony zbiorowej do rodzaju zagrożeń w pracy biurowej",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "udziela pierwszej pomocy w stanach nagłego zagrożenia zdrowotnego",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "opisuje podstawowe symptomy wskazujące na stany nagłego zagrożenia zdrowotnego",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "ocenia sytuację poszkodowanego na podstawie analizy objawów obserwowanych u poszkodowanego",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "zabezpiecza siebie, poszkodowanego i miejsce wypadku",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "układa poszkodowanego w pozycji bezpiecznej",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "powiadamia odpowiednie służby",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "prezentuje udzielanie pierwszej pomocy w urazowych stanach nagłego zagrożenia zdrowotnego, np. krwotok, zmiażdżenie, amputacja, złamanie, oparzenie",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "prezentuje udzielanie pierwszej pomocy w nieurazowych stanach nagłego zagrożenia zdrowotnego, np. omdlenie, zawał, udar",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "wykonuje resuscytację krążeniowo-oddechową na fantomie zgodnie z wytycznymi Polskiej Rady Resuscytacji i Europejskiej Rady Resuscytacji",
+                            "numer": 8
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Podstawy informatyki",
+                "kod": "04",
+                "numer": 2,
+                "efekty": [
+                   {
+                      "nazwa": "charakteryzuje parametry sprzętu komputerowego",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "identyfikuje parametry urządzeń techniki komputerowej",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "porównuje parametry tego samego typu urządzeń techniki komputerowej (np. dwie karty graficzne, dwa dyski twarde)",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "przelicza jednostki pojemności pamięci masowych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "dobiera urządzenia techniki komputerowej zgodnie z wymaganiami technicznymi stanowiska",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "definiuje elementy architektury systemów komputerowych",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "opisuje zasadę działania procesora (rozkazy)",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wymienia zależności między pamięcią operacyjną, procesorem i pozostałymi elementami systemu komputerowego",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "charakteryzuje systemy informatyczne oraz rozróżnia systemy informatyczne pod względem funkcjonalności",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "identyfikuje system informatyczny",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "podaje przykłady systemów informacji przetwarzanych przez system informatyczny, w tym system PESEL, system postępowania rekrutacyjnego do szkół, e-dziennik, system bankowości elektronicznej, profil zaufany",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "opisuje miejsca przechowywania informacji: serwer lokalny, chmura, nośniki danych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "dobiera systemy informatyczne pod względem ich funkcjonalności",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "opisuje działanie portali społecznościowych",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "określa zasady bezpiecznego korzystania z portali społecznościowych",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "podaje przykłady zastosowań systemów informatycznych w działalności biznesowej, w tym e-commerce, e-sklep, e-faktura, systemy rezerwacyjne",
+                            "numer": 7
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje zalecenia dotyczące ułatwień dostępności serwisów internetowych dla osób niepełnosprawnych",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "wymienia dostępne udogodnienia dla osób z niepełnosprawnościami",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wymienia wymagania dotyczące poziomu dostępności według wytycznych WCAG",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "posługuje się terminologią dotyczącą sieci komputerowych",
+                      "numer": 5,
+                      "kryteria": [
+                         {
+                            "nazwa": "wymienia topologie sieci",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "identyfikuje cechy modelu TCP/IP i protokołów komunikacji sieciowej",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "opisuje sieć bezprzewodową oraz sieć przewodową",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "oblicza przepustowość sieci",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "definiuje pojęcia pobieranie i wysyłanie danych",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "opisuje zasady działania sieci synchronicznej i asynchronicznej",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "wykazuje różnice w działaniu sieci synchronicznej i asynchronicznej",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "wymienia i stosuje zasady bezpieczeństwa przy korzystaniu z sieci",
+                            "numer": 8
+                         },
+                         {
+                            "nazwa": "używa komunikatorów tekstowych, audio-video oraz tablic interaktywnych",
+                            "numer": 9
+                         },
+                         {
+                            "nazwa": "stosuje zasadę netykiety",
+                            "numer": 10
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje pozycyjne systemy liczbowe",
+                      "numer": 6,
+                      "kryteria": [
+                         {
+                            "nazwa": "przekształca liczby zapisane w różnych pozycyjnych systemach liczbowych: dwójkowym, ósemkowym, szesnastkowym, dziesiętnym",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "zapisuje liczby w kodzie uzupełnieniowym do dwóch",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wykonuje podstawowe działania logiczne i arytmetyczne na liczbach binarnych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "wykorzystuje dostępne narzędzia informatyczne do wykonywania działań na liczbach zapisanych w różnych pozycyjnych systemach liczbowych (np. kalkulatory HEX, DEC, BIN)liczbowych",
+                            "numer": 1
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje zasady cyberbezpieczeństwa",
+                      "numer": 7,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozróżnia rodzaje szkodliwego oprogramowania",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "rozróżnia rodzaje ataków hakerskich",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wymienia środki zabezpieczeń przed złośliwym oprogramowaniem oraz atakami hakerskimi",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "wymienia zagrożenia dla sfery psychicznej (emocjonalnej), fizycznej, społecznej, poznawczej człowieka, wynikające z przebywania w cyberprzestrzeni",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "opisuje zagrożenia dla sfery psychicznej człowieka (emocjonalnej), fizycznej, społecznej, poznawczej człowieka, wynikające z przebywania w cyberprzestrzeni i sposoby przeciwdziałania tym zagrożeniom",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "przestrzega zasad bezpiecznego przechowywania danych",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "przestrzega zasad bezpieczeństwa swojego cyfrowego wizerunku i tożsamości",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "przestrzega zasad prywatności w cyfrowym świecie",
+                            "numer": 8
+                         },
+                         {
+                            "nazwa": "wymienia i omawia podstawowe pojęcia związane z ochroną danych osobowych, ochroną informacji, prawami autorskimi i własnością intelektualną oraz wyjaśnia potrzebę ich ochrony",
+                            "numer": 9
+                         },
+                         {
+                            "nazwa": "stosuje zasady dokonywania bezpiecznych transakcji w internecie",
+                            "numer": 10
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "rozpoznaje właściwe normy i procedury oceny zgodności podczas realizacji zadań zawodowych",
+                      "numer": 8,
+                      "kryteria": [
+                         {
+                            "nazwa": "wymienia cele normalizacji krajowej",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wyjaśnia, czym jest norma i wymienia cechy normy",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "rozróżnia oznaczenie normy międzynarodowej, europejskiej i krajowej",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "korzysta ze źródeł informacji dotyczących norm i procedur oceny zgodności",
+                            "numer": 4
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Projektowanie oprogramowania",
+                "kod": "04",
+                "numer": 3,
+                "efekty": [
+                   {
+                      "nazwa": "posługuje się prostymi typami danych",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozróżnia typy numeryczne stałoprzecinkowe i zmiennoprzecinkowe",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "rozpoznaje typ logiczny",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "rozróżnia typy znakowe i łańcuchowe",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "posługuje się typami liczbowymi stałoprzecinkowe i zmiennoprzecinkowymi, typem logicznym, typem znakowym i łańcuchowym",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "posługuje się złożonymi typami danych",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozróżnia rodzaje złożonych typów danych",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "posługuje się tablicami jednowymiarowymi i dwuwymiarowymi",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "posługuje się tablicami dynamicznymi, asocjacyjnymi",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "posługuje się typem rekordowym, np. struktura, unia",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "posługuje się typem plikowym",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "posługuje się typem wskaźnikowym",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "charakteryzuje cechy kolekcji, w tym znaczenie iteratora",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "posługuje się kolekcjami, np. listami, kolejkami, stosami, wektorami",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "projektuje zestawy danych dla problemu programistycznego",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje metody rozwiązywania problemów za pomocą algorytmów",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "projektuje algorytmy za pomocą różnych metod: schematów blokowych, listy kroków, drzew decyzyjnych, pseudokodu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "charakteryzuje algorytmy iteracyjne, tekstowe i szyfrowania, tablicowe",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "charakteryzuje algorytmy rekurencyjne",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "charakteryzuje problemy i metody ich rozwiązywania, np. algorytmy heurystyczne, problem komiwojażera",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "określa złożoność obliczeniową algorytmów",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje algorytmy sortowania i wyszukiwania",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "charakteryzuje typy sortowania i ich złożoność obliczeniową",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje różne typy sortowania, np. bąbelkowe, zachłanne, przez wstawianie, szybkie, metodą dziel i zwyciężaj",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "stosuje algorytmy wyszukiwania dla tablic, list, kolejek, stosów",
+                            "numer": 3
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "dobiera narzędzia i metodologie do planowania i zarządzania projektem",
+                      "numer": 5,
+                      "kryteria": [
+                         {
+                            "nazwa": "określa funkcje narzędzi do zarządzania projektem",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje diagramy do zarządzania etapami projektu, zadaniami i czasem, np. diagram Gantta",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "korzysta z programów wspierających zarządzanie projektami, np. Jira, Trello",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "korzysta z systemu kontroli wersji, np. Git",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "projektuje aplikację",
+                      "numer": 6,
+                      "kryteria": [
+                         {
+                            "nazwa": "analizuje wymagania klienta i tworzy zgodny z nimi projekt",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "tłumaczy wymagania klienta na specyfikację techniczną dla zespołu programistów",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "identyfikuje elementy interfejsu użytkownika, np. okna, dialogi, kontrolki, formularze, paski narzędziowe, widgety",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "projektuje interfejs użytkownika i wygląd aplikacji",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "dostosowuje interfejs do różnych platform",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "projektuje aplikacje w różnych paradygmatach programowania: strukturalnym, obiektowym",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "projektuje aplikację opartą na architekturze klient-serwer",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "projektuje struktury danych dla aplikacji",
+                            "numer": 8
+                         },
+                         {
+                            "nazwa": "projektuje funkcjonalność aplikacji",
+                            "numer": 9
+                         },
+                         {
+                            "nazwa": "planuje system zabezpieczeń aplikacji",
+                            "numer": 10
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "planuje przedsięwzięcie programistyczne",
+                      "numer": 7,
+                      "kryteria": [
+                         {
+                            "nazwa": "określa cel projektu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "określa fazy realizacji projektu",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "charakteryzuje cykl życia projektu informatycznego i jego poszczególne etapy",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "określa zasoby ludzkie oraz ramy czasowe wykonania projektu",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "planuje etapy tworzenia aplikacji",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "korzysta z metodologii zarządzania projektem: model kaskadowy (waterfall), model przyrostowy, model prototypowy, metodyki zwinne (Agile oraz przynajmniej jedną z Scrum, Lean, Kanban)",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "dobiera optymalną metodologię zarządzania projektem",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "organizuje prace projektowe",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje harmonogram czynności w celu efektywnego osiągnięcia celów",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje wzorce projektowe",
+                      "numer": 8,
+                      "kryteria": [
+                         {
+                            "nazwa": "dobiera wzorzec projektowy do zadania programistycznego",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje wzorce projektowe w programowaniu obiektowym, np. Metoda szablonowa (Template method), Fasada (Facade), Kompozyt (Composite)",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje zagadnienia prawa autorskiego w dziedzinie programowania",
+                      "numer": 9,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozróżnia autorskie prawa osobiste i majątkowe",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "określa czas trwania praw autorskich",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "określa konsekwencje naruszenia prawa autorskiego",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "charakteryzuje elementy własności intelektualnej (dobra niematerialne, własności przemysłowe)",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "rozróżnia typy licencji oprogramowania",
+                            "numer": 5
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Programowanie obiektowe",
+                "kod": "04",
+                "numer": 4,
+                "efekty": [
+                   {
+                      "nazwa": "wykorzystuje środowisko programistyczne dla obiektowych aplikacji konsolowych",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozróżnia kompilatory i interpretery",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "charakteryzuje zadania kompilatora, interpretera, debuggera",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "analizuje błędy w kodzie za pomocą debuggera",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "charakteryzuje etapy kompilacji i interpretacji kodu",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "charakteryzuje pojęcie biblioteki",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "kompiluje i uruchamia programy",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "przestrzega zasad programowania",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "dzieli program na funkcje (metody)",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje rekurencję",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "implementuje algorytmy w programie",
+                            "numer": 3
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "korzysta z typów danych",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "stosuje proste i złożone typy danych",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "deklaruje własne typy danych",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "deklaruje zmienne różnych typów danych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "wykonuje operacje na zmiennych: wejścia i wyjścia, arytmetyczne, logiczne",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "stosuje typy złożone i operacje na nich",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje wyrażenia, instrukcje i biblioteki",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "stosuje operatory arytmetyczne, przypisania, porównania, logiczne, operatory do obsługi łańcuchów, bitowe",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wykorzystuje priorytety operatorów do właściwego budowania wyrażeń",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "stosuje instrukcję warunkową i wyboru",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "stosuje instrukcje pętli",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "korzysta z wybranych bibliotek języka C++, C#, Python lub innego języka programowania: biblioteka standardowa, biblioteka z funkcjami matematycznymi, biblioteka z podstawowymi algorytmami",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje zasady programowania obiektowego",
+                      "numer": 5,
+                      "kryteria": [
+                         {
+                            "nazwa": "stosuje obiektowe podejście do rozwiązywania problemów",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "charakteryzuje pojęcia klasa, obiekt, metoda, pole, dziedziczenie, hermetyzacja, polimorfizm",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "dzieli zagadnienie na klasy",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "powołuje obiekty",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "planuje aplikację z zastosowaniem hermetyzacji, dziedziczenia i polimorfizmu",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "definiuje klasy",
+                      "numer": 6,
+                      "kryteria": [
+                         {
+                            "nazwa": "definiuje pola klasy",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "określa zakres widoczności pól klasy i definiuje kwalifikatory dostępu",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "definiuje metody klasy",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "definiuje konstruktory, w tym konstruktor kopiujący, i destruktor klasy",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "definiuje instrukcje inicjujące konstruktora",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "określa zakres widoczności metod klasy i definiuje kwalifikatory dostępu",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "implementuje funkcjonalność klasy",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "deklaruje obiekty i odwołuje się obiektem do składowych klasy",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "definiuje składniki statyczne klasy",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "rozróżnia klasy dziedziczone i zaprzyjaźnione",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "tworzy funkcje zaprzyjaźnione z klasą",
+                            "numer": 8
+                         },
+                         {
+                            "nazwa": "stosuje składnik statyczny klasy i metody do ich obsługi",
+                            "numer": 9
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "definiuje klasy pochodne",
+                      "numer": 7,
+                      "kryteria": [
+                         {
+                            "nazwa": "buduje hierarchię dziedziczenia klas w programie",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wydziela metody i pola do odpowiednich klas w hierarchii dziedziczenia",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "definiuje klasy bazowe i pochodne",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "stosuje metody wirtualne, definiuje klasy abstrakcyjne",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "programuje szablony (wzorce) klas",
+                      "numer": 8,
+                      "kryteria": [
+                         {
+                            "nazwa": "definiuje szablony klas dla obsługi prostych typów liczbowych",
+                            "numer": 1
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "programuje obsługę wyjątków",
+                      "numer": 9,
+                      "kryteria": [
+                         {
+                            "nazwa": "stosuje szkielet obsługi wyjątków z instrukcjami try i catch",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje instrukcję throw",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "opracowuje listę możliwych błędów wykonania aplikacji",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "definiuje obsługę dla błędów wykonania aplikacji",
+                            "numer": 4
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Programowanie aplikacji desktopowych",
+                "kod": "04",
+                "numer": 5,
+                "efekty": [
+                   {
+                      "nazwa": "wykorzystuje środowisko programistyczne dla aplikacji desktopowych",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "dobiera środowisko programistyczne do określonych zadań i języka programowania (np. Visual Studio)",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje środowiska IDE, RAD",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "rozpoznaje narzędzia wykorzystywane w procesie tworzenia aplikacji desktopowych",
+                            "numer": 3
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "wykorzystuje frameworki do programowania aplikacji desktopowych",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "charakteryzuje pojęcie framework",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje frameworki typowe dla aplikacji desktopowych, np. WPF, Qt",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "programuje desktopowe aplikacje okienkowe",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozróżnia elementy interfejsu użytkownika (okno, dialog modalny i niemodalny, kontrolki)",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje języki programowania odpowiednie dla aplikacji desktopowych, np. C++, C#, Visual Basic, Java, Python",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "stosuje język do projektowania interfejsu użytkownika np. XAML",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "programuje okna aplikacji",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "programuje system menu aplikacji",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "programuje okna dialogowe aplikacji",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "programuje obsługę zdarzeń myszy i klawiatury",
+                            "numer": 7
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Programowanie aplikacji mobilnych",
+                "kod": "04",
+                "numer": 6,
+                "efekty": [
+                   {
+                      "nazwa": "wykorzystuje środowisko programistyczne dla aplikacji mobilnych",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "dobiera środowisko programistyczne do określonych zadań i języka programowania (np. Visual Studio, Android Studio, XCode)",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje środowiska IDE, RAD",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "rozpoznaje narzędzia wykorzystywane w procesie tworzenia aplikacji mobilnych",
+                            "numer": 1
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "programuje aplikacje mobilne",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "programuje aplikacje w jednym z systemów mobilnych: iOS lub Android",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje języki programowania dedykowane dla aplikacji mobilnych na systemach iOS lub Android: Objective-C lub Swift lub Java lub C#",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "programuje przechowywanie danych i preferencji użytkownika w aplikacjach mobilnych",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "identyfikuje elementy UI aplikacji mobilnej (przyciski, nawigacja, okna dialogowe, listy, formularze, paski narzędziowe, grafika, animacje, dźwięk)",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "programuje interfejs użytkownika za pomocą języka XAML",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "programuje aplikacje mobilne przy wykorzystaniu elementów UI",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "programuje proste aplikacje mobilne typu zegar, powiadamianie, kalendarz, formularz, lokalizacja (system nawigacji satelitarnej)",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "pobiera i wysyła dane z lub do internetu dla aplikacji mobilnej",
+                            "numer": 8
+                         },
+                         {
+                            "nazwa": "programuje aplikację mobilną korzystającą z bazy danych",
+                            "numer": 9
+                         },
+                         {
+                            "nazwa": "tworzy aplikacje dostosowane do danej platformy mobilnej (np. system Android smartfon, system Android Tablet, IPAD IPhone)",
+                            "numer": 10
+                         },
+                         {
+                            "nazwa": "uruchamia aplikacje mobilne",
+                            "numer": 11
+                         },
+                         {
+                            "nazwa": "przygotowuje aplikacje do publikacji w sklepie",
+                            "numer": 12
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Programowanie aplikacji zaawansowanych webowych",
+                "kod": "04",
+                "numer": 7,
+                "efekty": [
+                   {
+                      "nazwa": "wykorzystuje środowisko programistyczne dla aplikacji zaawansowanych webowych",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "dobiera środowisko programistyczne do określonych zadań i języka programowania (np. Visual Studio, Eclipse Jet Brains)",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje środowiska IDE, RAD",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "rozpoznaje narzędzia wykorzystywane w procesie tworzenia aplikacji webowych",
+                            "numer": 3
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "wykorzystuje frameworki do programowania aplikacji webowych",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "stosuje frameworki typowe dla aplikacji webowych: ASP.NET Core, Django, Angular, React.js, Node.js",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wykorzystuje bibliotekę jQuery lub jej odpowiednik",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "programuje zaawansowane aplikacje webowych",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "stosuje języki programowania odpowiednie dla aplikacji webowych, np. PHP, C#, Python, JavaScript",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje mechanizm sesji użytkownika, ciasteczek",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "programuje dynamiczne formularze, systemy logowania i kontroli dostępu do określonych elementów witryny",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "programuje aplikacje korzystające z bazy danych",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "programuje wybrane elementy funkcjonalności e-sklepu, portalu społecznościowego, serwisu ogłoszeniowego, serwisu rezerwacyjnego",
+                            "numer": 5
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Testowanie i dokumentowanie aplikacji",
+                "kod": "04",
+                "numer": 8,
+                "efekty": [
+                   {
+                      "nazwa": "przeprowadza walidację kodu programu",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "dobiera narzędzia i środowisko do testowania programów",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wykonuje testy tworzonych programów",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "identyfikuje błędy w tworzonych programach",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "poprawia błędy w tworzonych programach, skryptach",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "optymalizuje kod źródłowy",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "dokumentuje tworzoną aplikację",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "stosuje komentarze w kodzie źródłowym programu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "pisze dokumentację kodu",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "pisze dokumenty pomocy programu",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "pisze instrukcję użytkownika aplikacji",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "pisze instrukcję użytkownika programu",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "pisze dokumentację wdrożenia projektu",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "przygotowuje dokumentację z wykonanych testów",
+                            "numer": 7
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "przeprowadza testy",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "charakteryzuje metodyki testowania",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "przygotowuje testy funkcjonalne i niefunkcjonalne",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "przeprowadza testy funkcjonalne",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "przeprowadza testy w kolejnych fazach projektu informatycznego",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "przeprowadza testy niefunkcjonalne: użyteczności, wydajnościowe, obciążeniowe, zgodności, bezpieczeństwa",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "korzysta z systemów raportowania błędów, np. BugZilla, JIRA",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "przeprowadza testy interfejsu",
+                            "numer": 7
+                         },
+                         {
+                            "nazwa": "testuje prototyp projektu interfejsu",
+                            "numer": 8
+                         },
+                         {
+                            "nazwa": "przygotowuje środowiska testowe",
+                            "numer": 9
+                         },
+                         {
+                            "nazwa": "planuje scenariusze testowania aplikacji",
+                            "numer": 10
+                         },
+                         {
+                            "nazwa": "pisze scenariusze testowania aplikacji",
+                            "numer": 11
+                         },
+                         {
+                            "nazwa": "raportuje błędy po przeprowadzonych testach",
+                            "numer": 12
+                         },
+                         {
+                            "nazwa": "automatyzuje proces testowania",
+                            "numer": 13
+                         },
+                         {
+                            "nazwa": "testuje aplikację",
+                            "numer": 14
+                         },
+                         {
+                            "nazwa": "weryfikuje zgodność aplikacji z oczekiwaniami klienta",
+                            "numer": 15
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Język obcy zawodowy",
+                "kod": "04",
+                "numer": 9,
+                "efekty": [
+                   {
+                      "nazwa": "posługuje się podstawowym zasobem środków językowych w języku obcym nowożytnym (ze szczególnym uwzględnieniem środków leksykalnych) umożliwiającym realizację czynności zawodowych w zakresie tematów związanych: a) ze stanowiskiem pracy i jego wyposażeniem b) z głównymi technologiami stosowanymi w danym zawodzie c) z dokumentacją związaną z danym zawodem d) z usługami świadczonymi w danym zawodzie",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozpoznaje oraz stosuje środki językowe umożliwiające realizację czynności zawodowych w zakresie: a) czynności wykonywanych na stanowisku pracy, w tym związanych z zapewnieniem bezpieczeństwa i higieny pracy b) narzędzi, maszyn, urządzeń i materiałów koniecznych do realizacji czynności zawodowych c) procesów i procedur związanych z realizacją zadań zawodowych d) formularzy, specyfikacji oraz innych dokumentów związanych z wykonywaniem zadań zawodowych e) świadczonych usług, w tym obsługi klienta",
+                            "numer": 1
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "rozumie proste wypowiedzi ustne artykułowane wyraźnie, w standardowej odmianie języka obcego nowożytnego, a także proste wypowiedzi pisemne w języku obcym nowożytnym",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "określa główną myśl wypowiedzi lub tekstu lub fragmentu wypowiedzi lub tekstu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "znajduje w wypowiedzi lub tekście określone informacje",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "rozpoznaje związki między poszczególnymi częściami tekstu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "układa informacje w określonym porządku",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "samodzielnie tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne i pisemne w języku obcym nowożytnym w zakresie umożliwiającym realizację zadań zawodowych: a) tworzy krótkie, proste, spójne i logiczne wypowiedzi ustne dotyczące czynności zawodowych (np. polecenie, komunikat, instrukcję) b) tworzy krótkie, proste, spójne i logiczne wypowiedzi pisemne dotyczące czynności zawodowych (np. komunikat, e-mail, instrukcję, wiadomość, CV, list motywacyjny, dokument związany z wykonywanym zawodem – według wzoru)",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "opisuje przedmioty, działania i zjawiska związane z czynnościami zawodowymi",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "przedstawia sposób postępowania w różnych sytuacjach zawodowych (np. udziela instrukcji, wskazówek, określa zasady)",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wyraża i uzasadnia swoje stanowisko",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "stosuje zasady konstruowania tekstów o różnych charakterze",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "stosuje formalny lub nieformalny styl wypowiedzi adekwatnie do sytuacji",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "uczestniczy w rozmowie w typowych sytuacjach związanych z realizacją zadań zawodowych – reaguje w języku obcym nowożytnym w sposób zrozumiały, adekwatnie do sytuacji komunikacyjnej, ustnie lub w formie prostego tekstu: a) reaguje ustnie (np. podczas rozmowy z innym pracownikiem, klientem, kontrahentem, w tym podczas rozmowy telefonicznej) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych b) reaguje w formie prostego tekstu pisanego (np. wiadomość, formularz, e-mail, dokument związany z wykonywanym zawodem) w typowych sytuacjach związanych z wykonywaniem czynności zawodowych",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozpoczyna, prowadzi i kończy rozmowę",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "uzyskuje i przekazuje informacje i wyjaśnienia",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wyraża swoje opinie i uzasadnia je, pyta o opinie, zgadza się lub nie zgadza z opiniami innych osób",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "prowadzi proste negocjacje związane z czynnościami zawodowymi",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "stosuje zwroty i formy grzecznościowe",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "dostosowuje styl wypowiedzi do sytuacji",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "zmienia formę przekazu ustnego lub pisemnego w języku obcym nowożytnym w typowych sytuacjach związanych z wykonywaniem czynności zawodowych",
+                      "numer": 5,
+                      "kryteria": [
+                         {
+                            "nazwa": "przekazuje w języku obcym nowożytnym informacje zawarte w materiałach wizualnych (np. wykresach, symbolach, piktogramach, schematach) oraz audiowizualnych (np. filmach instruktażowych)",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "przekazuje w języku polskim informacje sformułowane w języku obcym nowożytnym",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "przekazuje w języku obcym nowożytnym informacje sformułowane w języku polskim lub w tym języku obcym nowożytnym",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "przedstawia publicznie w języku obcym nowożytnym wcześniej opracowany materiał, np. prezentację",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "wykorzystuje strategie służące doskonaleniu własnych umiejętności językowych oraz podnoszące świadomość językową: a) wykorzystuje techniki samodzielnej pracy nad językiem b) współdziała w grupie",
+                      "numer": 6,
+                      "kryteria": [
+                         {
+                            "nazwa": "korzysta ze słownika dwujęzycznego i jednojęzycznego",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "współdziała z innymi osobami, realizując zadania językowe",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "korzysta z tekstów w języku obcym nowożytnym, również za pomocą technologii informacyjno-komunikacyjnych",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "identyfikuje słowa klucze i internacjonalizmy",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wykorzystuje kontekst (tam, gdzie to możliwe), aby w przybliżeniu określić znaczenie słowa",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "upraszcza (jeżeli to konieczne) wypowiedź, zastępuje nieznane słowa innymi, wykorzystuje opis, środki niewerbalne",
+                            "numer": 4
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Kompetencje personalne i społeczne",
+                "kod": "04",
+                "numer": 10,
+                "efekty": [
+                   {
+                      "nazwa": "przestrzega zasad kultury osobistej i etyki zawodowej",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "stosuje zasady kultury osobistej i ogólnie przyjęte normy zachowania w środowisku pracy",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "przyjmuje odpowiedzialność za powierzone informacje zawodowe",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "przestrzega tajemnicy związanej z wykonywanym zawodem i miejscem pracy",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "wyjaśnia, na czym polega zachowanie etyczne w zawodzie",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "wskazuje przykłady zachowań etycznych w zawodzie",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "planuje wykonanie zadania",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "omawia czynności realizowane w ramach czasu pracy",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "określa czas realizacji zadań",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "realizuje działania w wyznaczonym czasie",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "monitoruje realizację zaplanowanych działań",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "dokonuje modyfikacji zaplanowanych działań",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "dokonuje samooceny wykonanej pracy",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "ponosi odpowiedzialność za podejmowane działania",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "przewiduje skutki podejmowanych działań, w tym skutki prawne",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wykazuje świadomość odpowiedzialności za wykonywaną pracę",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "ocenia podejmowane działania",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "przewiduje konsekwencje niewłaściwego wykonywania czynności zawodowych na stanowisku pracy, w tym niewłaściwej eksploatacji maszyn i urządzeń na stanowisku pracy",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "wykazuje się kreatywnością i otwartością na zmiany",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "podaje przykłady wpływu zmiany na różne sytuacje życia społecznego i gospodarczego",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wskazuje przykłady wprowadzenia zmiany i ocenia skutki jej wprowadzenia",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "proponuje sposoby rozwiązywania problemów związanych z wykonywaniem zadań zawodowych w nieprzewidywalnych warunkach",
+                            "numer": 3
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje techniki radzenia sobie ze stresem",
+                      "numer": 5,
+                      "kryteria": [
+                         {
+                            "nazwa": "rozpoznaje źródła stresu podczas wykonywania zadań zawodowych",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wybiera techniki radzenia sobie ze stresem odpowiednio do sytuacji",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wskazuje najczęstsze przyczyny sytuacji stresowych w pracy zawodowej",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "przedstawia różne formy zachowań asertywnych, jako technikę radzenia sobie ze stresem",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "rozróżnia techniki rozwiązywania konfliktów związanych z wykonywaniem zadań zawodowych",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "określa skutki stresu",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "doskonali umiejętności zawodowe",
+                      "numer": 6,
+                      "kryteria": [
+                         {
+                            "nazwa": "pozyskuje informacje zawodoznawcze dotyczące przemysłu z różnych źródeł",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "określa zakres umiejętności i kompetencji niezbędnych w wykonywaniu zadań zawodowych",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "analizuje własne kompetencje",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wyznacza własne cele rozwoju zawodowego",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "planuje drogę rozwoju zawodowego",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "wskazuje możliwości podnoszenia kompetencji zawodowych, osobistych i społecznych",
+                            "numer": 5
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje zasady komunikacji interpersonalnej",
+                      "numer": 7,
+                      "kryteria": [
+                         {
+                            "nazwa": "identyfikuje sygnały werbalne i niewerbalne",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "stosuje aktywne metody słuchania",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "prowadzi dyskusje",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "udziela informacji zwrotnej",
+                            "numer": 4
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "negocjuje warunki porozumień",
+                      "numer": 8,
+                      "kryteria": [
+                         {
+                            "nazwa": "charakteryzuje pożądaną postawę podczas prowadzenia negocjacji",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "wskazuje sposób prowadzenia negocjacji warunków porozumienia",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "stosuje metody i techniki rozwiązywania problemów",
+                      "numer": 9,
+                      "kryteria": [
+                         {
+                            "nazwa": "opisuje sposób przeciwdziałania problemom w zespole realizującym zadania",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "opisuje techniki rozwiązywania problemów",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "wskazuje na wybranym przykładzie metody i techniki rozwiązywania problemu",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "pracuje w zespole, ponosząc odpowiedzialność za wspólnie realizowane zadania",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "przestrzega podziału ról, zadań i odpowiedzialności w zespole",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "angażuje się w realizację wspólnych działań zespołu",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "modyfikuje sposób zachowania, uwzględniając stanowisko wypracowane wspólnie z innymi członkami zespołu",
+                            "numer": 4
+                         }
+                      ]
+                   }
+                ]
+             },
+             {
+                "nazwa": "Organizacja pracy małych zespołów",
+                "kod": "04",
+                "numer": 11,
+                "efekty": [
+                   {
+                      "nazwa": "planuje i organizuje pracę zespołu w celu wykonania przydzielonych zadań",
+                      "numer": 1,
+                      "kryteria": [
+                         {
+                            "nazwa": "określa strukturę zespołu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "przygotowuje zadania zespołu do realizacji",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "planuje realizację zadań zapobiegających zagrożeniom bezpieczeństwa i ochrony zdrowia",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "oszacowuje czas potrzebny na realizację określonego zadania",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "komunikuje się ze współpracownikami",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "wskazuje wzorce prawidłowej współpracy w zespole",
+                            "numer": 6
+                         },
+                         {
+                            "nazwa": "przydziela zadania członkom zespołu zgodnie z harmonogramem planowanych prac",
+                            "numer": 7
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "dobiera osoby do wykonania przydzielonych zadań",
+                      "numer": 2,
+                      "kryteria": [
+                         {
+                            "nazwa": "ocenia przydatność poszczególnych członków zespołu do wykonania zadania",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "rozdziela zadania według umiejętności i kompetencji członków zespołu",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "kieruje wykonaniem przydzielonych zadań",
+                      "numer": 3,
+                      "kryteria": [
+                         {
+                            "nazwa": "ustala kolejność wykonywania zadań zgodnie z harmonogramem prac",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "formułuje zasady wzajemnej pomocy",
+                            "numer": 2
+                         },
+                         {
+                            "nazwa": "koordynuje realizację zadań zapobiegających zagrożeniom bezpieczeństwa i ochrony zdrowia",
+                            "numer": 3
+                         },
+                         {
+                            "nazwa": "wydaje dyspozycje osobom wykonującym poszczególne zadania",
+                            "numer": 4
+                         },
+                         {
+                            "nazwa": "monitoruje proces wykonywania zadań",
+                            "numer": 5
+                         },
+                         {
+                            "nazwa": "opracowuje dokumentację dotyczącą realizacji zadania według panujących standardów",
+                            "numer": 6
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "ocenia jakość wykonania przydzielonych zadań",
+                      "numer": 4,
+                      "kryteria": [
+                         {
+                            "nazwa": "kontroluje efekty pracy zespołu",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "ocenia pracę poszczególnych członków zespołu pod względem zgodności z warunkami technicznymi odbioru prac",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "udziela wskazówek w celu prawidłowego wykonania przydzielonych zadań",
+                            "numer": 2
+                         }
+                      ]
+                   },
+                   {
+                      "nazwa": "wprowadza rozwiązania techniczne i organizacyjne wpływające na poprawę warunków i jakości pracy",
+                      "numer": 5,
+                      "kryteria": [
+                         {
+                            "nazwa": "dokonuje analizy rozwiązań technicznych i organizacyjnych warunków i jakości pracy",
+                            "numer": 1
+                         },
+                         {
+                            "nazwa": "proponuje rozwiązania techniczne i organizacyjne mające na celu poprawę warunków i jakości pracy",
+                            "numer": 2
+                         }
+                      ]
+                   }
+                ]
+             }
+          ]
+       }
+    ]
+ }
