@@ -1,6 +1,8 @@
 package info.java.tips.servlet;
 
 import java.io.IOException;
+import java.util.Collections;
+
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -9,14 +11,20 @@ import javax.servlet.http.HttpServletResponse;
 import com.google.api.client.googleapis.auth.oauth2.GoogleIdToken;
 import com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload;
 import com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier;
-import com.sun.xml.internal.ws.policy.privateutil.PolicyUtils.Collections;
+import com.google.api.client.http.HttpTransport;
+import com.google.api.client.json.JsonFactory;
 
 /**
  * Servlet implementation class MainServlet
  */
-@WebServlet("/MainServlet")
 public class MainServlet extends HttpServlet {
 
+	private HttpTransport transport;
+
+	private JsonFactory jsonFactory;
+	
+	private String CLIENT_ID = "69867747310-humvfve86jfr9jn1d9jbraqbuv33fg7n.apps.googleusercontent.com";
+	
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		response.getWriter().append("Served at: ").append(request.getContextPath());
@@ -31,6 +39,7 @@ public class MainServlet extends HttpServlet {
 
 		// (Receive idTokenString by HTTPS POST)
 
+		String idTokenString;
 		GoogleIdToken idToken = verifier.verify(idTokenString);
 		if (idToken != null) {
 		  Payload payload = idToken.getPayload();

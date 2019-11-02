@@ -4,6 +4,7 @@
 <html lang=pl>
 <head>
 	<meta charset="utf-8">
+	<title>InfoTech</title>
 	<meta name="description" content="System do łączenia/zarządzania kryteriów weryfikacji z przedmiotami.">
 	<meta name="keywords" content="infotech, system, kryteria, przedmioty">
 	<meta name="author" content="Jakub Sak">
@@ -17,7 +18,7 @@
 		<header>
 			<center><img src="img/logo.png" style="margin-top: 20px;">
 			<div class="g-signin2" data-onsuccess="onSignIn" data-theme="dark" style="margin-top: 10px; width: 200px;"></div></center>
-			<a href="#" onclick="signOut();">Sign out</a>
+			<a href="#" onclick="signOut();">Sign Out</a> <!-- debug button -->
 		</header>
 		<script>
 		function onSignIn(googleUser) {
@@ -37,9 +38,10 @@
 		xhr.open('POST', 'https://yourbackend.example.com/tokensignin');
 		xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 		xhr.onload = function() {
-		  console.log('Signed in as: ' + xhr.responseText);
+		console.log('Signed in as: ' + xhr.responseText);
 		};
 		xhr.send('idtoken=' + id_token);
+		
 		}
 		</script>
 		<script>
