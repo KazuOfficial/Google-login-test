@@ -10,6 +10,9 @@
 	<link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
 </head>
 <body>
+<?php
+	echo "sup";
+?>
 	<div id="nav">
 		<img src="logo.png">
 	</div>
