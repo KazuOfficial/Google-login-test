@@ -20,6 +20,10 @@
 			<div class="g-signin2" data-onsuccess="onSignIn" data-theme="dark" style="margin-top: 10px; width: 200px;"></div></center>
 			<a href="#" onclick="signOut();">Sign Out</a> <!-- debug button -->
 		</header>
+		<form action="add">
+			<input type="text" name="id">
+			<input type="submit">
+		</form>
 		<script>
 		function onSignIn(googleUser) {
 		// Useful data for your client-side scripts:
@@ -37,11 +41,11 @@
 		var xhr = new XMLHttpRequest();
 		xhr.open('POST', 'https://yourbackend.example.com/tokensignin');
 		xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+		varid = profile.getId();
 		xhr.onload = function() {
 		console.log('Signed in as: ' + xhr.responseText);
 		};
 		xhr.send('idtoken=' + id_token);
-		
 		}
 		</script>
 		<script>
