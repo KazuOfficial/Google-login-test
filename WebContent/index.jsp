@@ -4,7 +4,7 @@
 <html lang=pl>
 <head>
 	<meta charset="utf-8">
-	<title>InfoTech Kryteria - Zaloguj</title>
+	<title>InfoTech - Zarządzanie kryteriami weryfikacji - zaloguj</title>
 	<meta name="description" content="System do łączenia/zarządzania kryteriów weryfikacji z przedmiotami.">
 	<meta name="keywords" content="infotech, system, kryteria, przedmioty">
 	<meta name="author" content="Jakub Sak">
@@ -19,7 +19,6 @@
 	<center><a href="https://infotech.edu.pl/"><img src="img/logo.png"></a>
 	<div class="g-signin2" data-onsuccess="onSignIn" data-theme="dark" style="margin-top: 10px; width: 200px;"></div></center>
 	</div>
-	<!-- <a href="#" onclick="signOut();">Sign Out</a> debug button -->
 	<!-- <form action="add" method="get">
 		<input type="text" name="id">
 		<input type="submit">
@@ -38,23 +37,14 @@
 	var id_token = googleUser.getAuthResponse().id_token;
 	console.log("ID Token: " + id_token);
 	// Send the ID token to your server with an HTTPS POST request:
-	var xhr = new XMLHttpRequest();
-	xhr.open('POST', 'http://localhost:8080/InfoTech/');
-	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-	varid = profile.getId();
-	xhr.onload = function() {
-	console.log('Signed in as: ' + xhr.responseText);
-	};
-	xhr.send('idtoken=' + id_token);
+	//var xhr = new XMLHttpRequest();
+	//xhr.open('POST', 'backendexample');
+	//xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+	//xhr.onload = function() {
+	//console.log('Signed in as: ' + xhr.responseText);
+	//};
+	//xhr.send('idtoken=' + id_token);
 	window.location.replace("main.jsp");
-	}
-</script>
-<script>
-	function signOut() {
-	var auth2 = gapi.auth2.getAuthInstance();
-	auth2.signOut().then(function () {
-	console.log('User signed out.');
-	});
 	}
 </script>
 </body>

@@ -4,7 +4,6 @@
 	<servlet-name>infotech</servlet-name>
 	<servlet-class>me.jakubsak.servlet.AddServlet</servlet-class>
 </servlet>
-
 <servlet-mapping>
 	<servlet-name>infotech</servlet-name>
 	<url-pattern>/add</url-pattern>
