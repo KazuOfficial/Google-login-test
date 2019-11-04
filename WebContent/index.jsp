@@ -4,7 +4,7 @@
 <html lang=pl>
 <head>
 	<meta charset="utf-8">
-	<title>InfoTech</title>
+	<title>InfoTech Kryteria - Zaloguj</title>
 	<meta name="description" content="System do łączenia/zarządzania kryteriów weryfikacji z przedmiotami.">
 	<meta name="keywords" content="infotech, system, kryteria, przedmioty">
 	<meta name="author" content="Jakub Sak">
@@ -15,46 +15,47 @@
 	<script src="https://apis.google.com/js/platform.js" async defer></script>
 </head>
 <body>
-		<header>
-			<center><img src="img/logo.png" style="margin-top: 20px;">
-			<div class="g-signin2" data-onsuccess="onSignIn" data-theme="dark" style="margin-top: 10px; width: 200px;"></div></center>
-			<a href="#" onclick="signOut();">Sign Out</a> <!-- debug button -->
-		</header>
-		<form action="add">
-			<input type="text" name="id">
-			<input type="submit">
-		</form>
-		<script>
-		function onSignIn(googleUser) {
-		// Useful data for your client-side scripts:
-		var profile = googleUser.getBasicProfile();
-		console.log("ID: " + profile.getId()); // Don't send this directly to your server!
-		console.log('Full Name: ' + profile.getName());
-		console.log('Given Name: ' + profile.getGivenName());
-		console.log('Family Name: ' + profile.getFamilyName());
-		console.log("Image URL: " + profile.getImageUrl());
-		console.log("Email: " + profile.getEmail());
-		// The ID token you need to pass to your backend:
-		var id_token = googleUser.getAuthResponse().id_token;
-		console.log("ID Token: " + id_token);
-		// Send the ID token to your server with an HTTPS POST request:
-		var xhr = new XMLHttpRequest();
-		xhr.open('POST', 'https://yourbackend.example.com/tokensignin');
-		xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-		varid = profile.getId();
-		xhr.onload = function() {
-		console.log('Signed in as: ' + xhr.responseText);
-		};
-		xhr.send('idtoken=' + id_token);
-		}
-		</script>
-		<script>
-		function signOut() {
-		var auth2 = gapi.auth2.getAuthInstance();
-		auth2.signOut().then(function () {
-		console.log('User signed out.');
-		});
-		}
-		</script>
+	<div id="container">
+	<center><a href="https://infotech.edu.pl/"><img src="img/logo.png"></a>
+	<div class="g-signin2" data-onsuccess="onSignIn" data-theme="dark" style="margin-top: 10px; width: 200px;"></div></center>
+	</div>
+	<!-- <a href="#" onclick="signOut();">Sign Out</a> debug button -->
+	<!-- <form action="add" method="get">
+		<input type="text" name="id">
+		<input type="submit">
+	</form>-->
+<script>
+	function onSignIn(googleUser) {
+	// Useful data for your client-side scripts:
+	var profile = googleUser.getBasicProfile();
+	console.log("ID: " + profile.getId()); // Don't send this directly to your server!
+	console.log('Full Name: ' + profile.getName());
+	console.log('Given Name: ' + profile.getGivenName());
+	console.log('Family Name: ' + profile.getFamilyName());
+	console.log("Image URL: " + profile.getImageUrl());
+	console.log("Email: " + profile.getEmail());
+	// The ID token you need to pass to your backend:
+	var id_token = googleUser.getAuthResponse().id_token;
+	console.log("ID Token: " + id_token);
+	// Send the ID token to your server with an HTTPS POST request:
+	var xhr = new XMLHttpRequest();
+	xhr.open('POST', 'http://localhost:8080/InfoTech/');
+	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+	varid = profile.getId();
+	xhr.onload = function() {
+	console.log('Signed in as: ' + xhr.responseText);
+	};
+	xhr.send('idtoken=' + id_token);
+	window.location.replace("main.jsp");
+	}
+</script>
+<script>
+	function signOut() {
+	var auth2 = gapi.auth2.getAuthInstance();
+	auth2.signOut().then(function () {
+	console.log('User signed out.');
+	});
+	}
+</script>
 </body>
 </html>
