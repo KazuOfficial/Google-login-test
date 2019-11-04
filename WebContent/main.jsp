@@ -11,6 +11,7 @@
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="shortcut icon" type="image/png" href="img/favicon.png"/>
 	<link href="https://fonts.googleapis.com/css?family=Lato&display=swap" rel="stylesheet">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
 <body>
 <header>
@@ -18,5 +19,10 @@
 	<div id=logged>Zalogowano jako: Tony Stark</div><br>
 	<a href="#" onclick="signOut();">Wyloguj się</a></center>
 </header>
+<script>
+$( document ).ready(function() {
+	$("header.head").animate({left: '250px'});
+	}); }
+</script>
 </body>
 </html>
