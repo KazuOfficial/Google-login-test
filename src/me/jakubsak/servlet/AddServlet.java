@@ -1,8 +1,10 @@
 package me.jakubsak.servlet;
 
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.Collections;
 
+import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
@@ -22,7 +24,8 @@ public class AddServlet extends HttpServlet {
 	//POST - przydatne, gdy u¿ytkownik wymaga wype³nienia hase³ lub innych poufnych informacji.
 	
 	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
-
+		req.setAttribute("myname","value");
+		req.getRequestDispatcher("welcome.jsp").forward(req, res); 
 	}
 	
 	protected void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
@@ -32,7 +35,6 @@ public class AddServlet extends HttpServlet {
 			    // Specify the CLIENT_ID of the app that accesses the backend:
 			    .setAudience(Collections.singletonList("69867747310-humvfve86jfr9jn1d9jbraqbuv33fg7n.apps.googleusercontent.com"))
 			    .build();
-
 			// (Receive idTokenString by HTTPS POST)
 
 			GoogleIdToken idToken = verifier.verify(idTokenString);
