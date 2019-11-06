@@ -4,7 +4,7 @@
 <html lang=pl>
 <head>
 	<meta charset="utf-8">
-	<title>InfoTech - Zarządzanie kryteriami weryfikacji.</title>
+	<title>InfoTech - Zarzadząnie kryteriami weryfikacji.</title>
 	<meta name="description" content="System do łączenia/zarządzania kryteriów weryfikacji z przedmiotami.">
 	<meta name="keywords" content="infotech, system, kryteria, przedmioty">
 	<meta name="author" content="Jakub Sak">
@@ -17,14 +17,17 @@
 	<script src="https://apis.google.com/js/platform.js" async defer></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
-<body>
+<body action="add" method="post">
 <header style="display: none;">
 	<!-- TODO: Prevent copying -->
 	<center><img src="img/favicon.png" style="width: 50px; height: 50px; margin-top: 10px;"></br></br>
 	<div id=logged>
-		<form action="add" method="get">
-			Zalogowano jako: Tony Stark
-		</form>
+	<form action="add" method="post">
+		<%
+		String  s1  = (String) session.getAttribute("var");
+		%>
+		<%="Zalogowano jako: " + s1 %>
+	</form>
 	</div><br>	
 	<a href="#" onclick="signOut();">Wyloguj się</a></center>
 </header>

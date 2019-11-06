@@ -4,7 +4,7 @@
 <html lang=pl>
 <head>
 	<meta charset="utf-8">
-	<title>InfoTech - Zarządzanie kryteriami weryfikacji - zaloguj</title>
+	<title>InfoTech - Zarzadząnie kryteriami weryfikacji - zaloguj</title>
 	<meta name="description" content="System do łączenia/zarządzania kryteriów weryfikacji z przedmiotami.">
 	<meta name="keywords" content="infotech, system, kryteria, przedmioty">
 	<meta name="author" content="Jakub Sak">
@@ -20,7 +20,7 @@
 	<div id="container">
 	<!-- TODO: Prevent copying -->
 	<center><img src="img/logo.png">
-	<div class="g-signin2" data-onsuccess="onSignIn" data-theme="dark" style="margin-top: 10px; width: 200px;"></div></center>
+	<div class="g-signin2" data-onsuccess="onSignIn" data-theme="dark" style="margin-top: 10px; width: 200px;"></div></center>	
 	</div>
 <script>
 	function onSignIn(googleUser) {
@@ -30,12 +30,12 @@
 	var id_token = googleUser.getAuthResponse().id_token;
 	// Send the ID token to your server with an HTTPS POST request:
 	var xhr = new XMLHttpRequest();
-	xhr.open('POST', 'backendexample');
+	xhr.open('POST', 'add');
 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
 	xhr.onload = function() {
+	window.location.replace("main.jsp");
 	};
 	xhr.send('idtoken=' + id_token);
-	window.location.replace("main.jsp");
 	}
 </script>
 <script>
