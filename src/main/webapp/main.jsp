@@ -4,7 +4,7 @@
 <html lang=pl>
 <head>
 	<meta charset="utf-8">
-	<title>InfoTech - Zarzadząnie kryteriami weryfikacji.</title>
+	<title>InfoTech - Zarządzanie kryteriami weryfikacji.</title>
 	<meta name="description" content="System do łączenia/zarządzania kryteriów weryfikacji z przedmiotami.">
 	<meta name="keywords" content="infotech, system, kryteria, przedmioty">
 	<meta name="author" content="Jakub Sak">
@@ -17,18 +17,16 @@
 	<script src="https://apis.google.com/js/platform.js" async defer></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 </head>
-<body action="add" method="post">
+<body>
 <header style="display: none;">
 	<!-- TODO: Prevent copying -->
 	<center><img src="img/favicon.png" style="width: 50px; height: 50px; margin-top: 10px;"></br></br>
 	<div id=logged>
-	<form action="add" method="post">
+	<form action="add" method="get">
 		<%
-		String  s1  = (String) session.getAttribute("var");
+		String  s1  = (String) request.getAttribute("var");
 		%>
 		<%="Zalogowano jako: " + s1 %>
-		<input type="text" name="num1">
-		<input type="submit">
 	</form>
 	</div><br>	
 	<a href="#" onclick="signOut();">Wyloguj się</a></center>
@@ -39,7 +37,7 @@
 	var auth2 = gapi.auth2.getAuthInstance();
 	auth2.signOut().then(function () {
 	console.log('User signed out.');
-	window.location.replace("index.jsp");
+	window.location.replace("/InfoTech/");
 	});
 	}
 </script>

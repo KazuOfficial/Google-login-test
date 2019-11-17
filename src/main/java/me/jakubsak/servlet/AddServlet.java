@@ -5,6 +5,7 @@ import java.io.PrintWriter;
 import java.util.Arrays;
 
 import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -22,21 +23,21 @@ public class AddServlet extends HttpServlet {
 	//POST - przydatne, gdy u¿ytkownik wymaga wype³nienia hase³ lub innych poufnych informacji.
 	
 	//if(name==null) > jump to index.jsp
-
+	
 	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
-
+		req.setAttribute("var", processToken(req));
+		req.getRequestDispatcher("/main.jsp").forward(req, res);
 	}
 	
 	protected void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 		//String responseVal = processToken(req);
 		//res.getWriter().write(responseVal);
-		req.setAttribute("var","value");
-		req.getRequestDispatcher("main.jsp").forward(req, res);
 	}
 	
-	/*private String processToken(HttpServletRequest req){
+	private String processToken(HttpServletRequest req){
 		String returnVal="";
 		String idTokenString = req.getParameter("id_token");
+		System.out.println(idTokenString);
 		NetHttpTransport transport = new NetHttpTransport();
 		JsonFactory jsonFactory = new JacksonFactory();
 		
@@ -47,12 +48,15 @@ public class AddServlet extends HttpServlet {
 				// https://developers.google.com/identity/sign-in/android/start
 				// And follow step 4
 				.setIssuer("https://accounts.google.com").build();
+				System.out.println(verifier);
 		
 			try{
 				GoogleIdToken idToken = verifier.verify(idTokenString);
+				System.out.println(idToken);
 				if (idToken != null) {
 					Payload payload = idToken.getPayload();
 					returnVal = "User ID: " + payload.getSubject();
+					System.out.println(returnVal);
 					// You can also access the following properties of the payload in order
 					// for other attributes of the user. Note that these fields are only
 					// available if the user has granted the 'profile' and 'email' OAuth
@@ -60,6 +64,7 @@ public class AddServlet extends HttpServlet {
 					// String email = payload.getEmail();
 					// boolean emailVerified = Boolean.valueOf(payload.getEmailVerified());
 					String name = (String) payload.get("name");
+					System.out.println(name);
 					// String pictureUrl = (String) payload.get("picture");
 					// String locale = (String) payload.get("locale");
 					// String familyName = (String) payload.get("family_name");
@@ -73,8 +78,10 @@ public class AddServlet extends HttpServlet {
 		}
 		else{
 			returnVal = "Bad Token Passed In";
+			System.out.println(returnVal);
 		}
 		
 		return returnVal;
-	}*/
+	}
+	
 }
