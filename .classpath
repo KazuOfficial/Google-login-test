@@ -1,21 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
-	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="libs/google-api-client-1.30.2.jar"/>
-	<classpathentry kind="lib" path="libs/google-http-client-1.30.1.jar"/>
-	<classpathentry kind="lib" path="libs/google-http-client-jackson2-1.30.1.jar"/>
-	<classpathentry kind="lib" path="libs/google-oauth-client-1.30.1.jar"/>
-	<classpathentry kind="lib" path="libs/gson-2.8.5.jar"/>
-	<classpathentry kind="lib" path="libs/httpclient-4.5.9.jar"/>
-	<classpathentry kind="lib" path="libs/httpcore-4.4.11.jar"/>
-	<classpathentry kind="lib" path="libs/jackson-core-2.9.9.jar"/>
-	<classpathentry kind="lib" path="libs/jsr305-3.0.2.jar"/>
-	<classpathentry kind="lib" path="libs/protobuf-java-2.6.1.jar"/>
-	<classpathentry kind="lib" path="libs/xpp3-1.1.4c.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="D:/Program Files (x86)/Apache Software Foundation/Tomcat 9.0/lib/servlet-api.jar"/>
-	<classpathentry kind="output" path="build/classes"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
 </classpath>

@@ -1,20 +1,16 @@
 package me.jakubsak.servlet;
 
 import java.io.IOException;
-import java.io.PrintWriter;
 import java.util.Arrays;
-import java.util.Collections;
 
-import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
-import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
+
+import com.google.api.client.auth.openidconnect.IdToken.Payload;
 import com.google.api.client.googleapis.auth.oauth2.GoogleIdToken;
-import com.google.api.client.googleapis.auth.oauth2.GoogleIdToken.Payload;
 import com.google.api.client.googleapis.auth.oauth2.GoogleIdTokenVerifier;
-import com.google.api.client.http.HttpTransport;
 import com.google.api.client.http.javanet.NetHttpTransport;
 import com.google.api.client.json.JsonFactory;
 import com.google.api.client.json.jackson2.JacksonFactory;
@@ -24,15 +20,23 @@ public class AddServlet extends HttpServlet {
 	//GET - niew³aœciwe, gdy informacje poufne musz¹ zostaæ wype³nione w formularzu
 	//POST - przydatne, gdy u¿ytkownik wymaga wype³nienia hase³ lub innych poufnych informacji.
 	
-	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
+	//if(name==null) > jump to index.jsp
 
+	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
+		String responseVal = processToken(req);
+		res.getWriter().write(responseVal);
 	}
 	
 	protected void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
+		String responseVal = processToken(req);
+		res.getWriter().write(responseVal);
+	}
+	
+	private String processToken(HttpServletRequest req){
 		String returnVal="";
 		String idTokenString = req.getParameter("id_token");
 		NetHttpTransport transport = new NetHttpTransport();
-		final JsonFactory jsonFactory = new JacksonFactory();
+		JsonFactory jsonFactory = new JacksonFactory();
 		
 		if(idTokenString != null && !idTokenString.equals("")){
 			GoogleIdTokenVerifier verifier = new GoogleIdTokenVerifier.Builder(transport, jsonFactory)
@@ -53,13 +57,11 @@ public class AddServlet extends HttpServlet {
 					// scopes when requested.
 					// String email = payload.getEmail();
 					// boolean emailVerified = Boolean.valueOf(payload.getEmailVerified());
-					String name = (String) payload.get("name");
+					// String name = (String) payload.get("name");
 					// String pictureUrl = (String) payload.get("picture");
 					// String locale = (String) payload.get("locale");
 					// String familyName = (String) payload.get("family_name");
 					// String givenName = (String) payload.get("given_name");
-					req.getSession().setAttribute("var", name);
-					req.getRequestDispatcher("main.jsp").forward(req, res);
 				} else {
 					returnVal = "Invalid ID token.";
 				}
@@ -71,6 +73,6 @@ public class AddServlet extends HttpServlet {
 			returnVal = "Bad Token Passed In";
 		}
 		
-		return;
+		return returnVal;
 	}
 }
