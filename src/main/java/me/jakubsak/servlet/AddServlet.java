@@ -1,6 +1,7 @@
 package me.jakubsak.servlet;
 
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.Arrays;
 
 import javax.servlet.ServletException;
@@ -23,16 +24,17 @@ public class AddServlet extends HttpServlet {
 	//if(name==null) > jump to index.jsp
 
 	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
-		String responseVal = processToken(req);
-		res.getWriter().write(responseVal);
+
 	}
 	
 	protected void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
-		String responseVal = processToken(req);
-		res.getWriter().write(responseVal);
+		//String responseVal = processToken(req);
+		//res.getWriter().write(responseVal);
+		req.setAttribute("var","value");
+		req.getRequestDispatcher("main.jsp").forward(req, res);
 	}
 	
-	private String processToken(HttpServletRequest req){
+	/*private String processToken(HttpServletRequest req){
 		String returnVal="";
 		String idTokenString = req.getParameter("id_token");
 		NetHttpTransport transport = new NetHttpTransport();
@@ -57,7 +59,7 @@ public class AddServlet extends HttpServlet {
 					// scopes when requested.
 					// String email = payload.getEmail();
 					// boolean emailVerified = Boolean.valueOf(payload.getEmailVerified());
-					// String name = (String) payload.get("name");
+					String name = (String) payload.get("name");
 					// String pictureUrl = (String) payload.get("picture");
 					// String locale = (String) payload.get("locale");
 					// String familyName = (String) payload.get("family_name");
@@ -74,5 +76,5 @@ public class AddServlet extends HttpServlet {
 		}
 		
 		return returnVal;
-	}
+	}*/
 }

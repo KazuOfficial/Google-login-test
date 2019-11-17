@@ -27,6 +27,8 @@
 		String  s1  = (String) session.getAttribute("var");
 		%>
 		<%="Zalogowano jako: " + s1 %>
+		<input type="text" name="num1">
+		<input type="submit">
 	</form>
 	</div><br>	
 	<a href="#" onclick="signOut();">Wyloguj się</a></center>
