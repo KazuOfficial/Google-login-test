@@ -21,8 +21,10 @@
 	<!-- TODO: Prevent copying -->
 	<center><img src="img/logo.png">
 	<div class="g-signin2" data-onsuccess="onSignIn" data-theme="dark" style="margin-top: 10px; width: 200px;"></div></center>	
+	<form action="add" method="get">
+	<input type="hidden" name="val" id="val" value="2"/>
+	</form>
 	</div>
-<form action="add" method="post">
 <script>
 	function onSignIn(googleUser) {
 	// Useful data for your client-side scripts:
@@ -36,10 +38,10 @@
 	xhr.onload = function() {
 	};
 	xhr.send('idtoken=' + id_token);
+	document.getElementById("val").value = id_token;
 	window.location.replace("add?");
 	}
 </script>
-</form>
 <script>
 $('body').fadeIn(1000);
 </script>

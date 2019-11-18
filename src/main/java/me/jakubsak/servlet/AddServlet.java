@@ -25,7 +25,9 @@ public class AddServlet extends HttpServlet {
 	//if(name==null) > jump to index.jsp
 	
 	protected void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
-		req.setAttribute("var", processToken(req));
+		String idTokenString = req.getParameter("val");
+		//req.setAttribute("var", processToken(req));
+		req.setAttribute("var", idTokenString);
 		req.getRequestDispatcher("/main.jsp").forward(req, res);
 	}
 	
@@ -34,7 +36,7 @@ public class AddServlet extends HttpServlet {
 		//res.getWriter().write(responseVal);
 	}
 	
-	private String processToken(HttpServletRequest req){
+	public String processToken(HttpServletRequest req){
 		String returnVal="";
 		String idTokenString = req.getParameter("id_token");
 		System.out.println(idTokenString);
