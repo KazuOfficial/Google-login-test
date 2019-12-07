@@ -2,6 +2,7 @@
     pageEncoding="utf-8"%>
 <!DOCTYPE html>
 <html lang=pl>
+
 <head>
 	<meta charset="utf-8">
 	<title>InfoTech - Zarządzanie kryteriami weryfikacji.</title>
@@ -16,9 +17,20 @@
 	<meta name="google-signin-client_id" content="69867747310-humvfve86jfr9jn1d9jbraqbuv33fg7n.apps.googleusercontent.com">
 	<script src="https://apis.google.com/js/platform.js" async defer></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<style>
+		table, th, td {
+  		border: 1px solid black;
+  		border-collapse: collapse;
+		}
+		th, td {
+  		padding: 15px;
+		}
+	</style>
 </head>
-<body>
-<header style="display: none;">
+
+<body style="display: none;">
+
+<header>
 	<!-- TODO: Prevent copying -->
 	<center><img src="img/favicon.png" style="width: 50px; height: 50px; margin-top: 10px;"></br></br>
 	<div id=logged>
@@ -31,7 +43,27 @@
 	</div><br>	
 	<a href="#" onclick="signOut();">Wyloguj się</a></center>
 </header>
+
 	<div class="g-signin2" data-onsuccess="onSignIn" style="visibility: hidden;"></div>
+
+<center><table style="clear: both; width:70%; margin-top: 10px;">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+</table></center>
+
 <script>
 	function signOut() {
 	var auth2 = gapi.auth2.getAuthInstance();
@@ -41,8 +73,9 @@
 	});
 	}
 </script>
+
 <script>
-$('header').fadeIn(1000);
+$('body').fadeIn(1000);
 </script>
 </body>
 </html>
